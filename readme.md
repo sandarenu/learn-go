@@ -41,3 +41,8 @@ go mod init learn-go
     * `var array [3]int`
     * `var slice []int`
   * Use `make` to create slices. Eg: `s2 := make([]int, 10)`
+
+### Slice
+
+https://ueokande.github.io/go-slice-tricks/
+https://github.com/golang/go/wiki/SliceTricks
