@@ -46,3 +46,7 @@ go mod init learn-go
 
 https://ueokande.github.io/go-slice-tricks/
 https://github.com/golang/go/wiki/SliceTricks
+
+### Excercises
+
+https://github.com/inancgumus/learngo
